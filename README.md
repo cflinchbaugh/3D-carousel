@@ -2,6 +2,8 @@
 
 A pure HTML and CSS 3D Carousel, includes rendering an image in the middle to emphasize depth.
 
+Demo: https://cflinchbaugh.github.io/3D-carousel/
+
 ## Special Thanks
 
 [Alex Knight](https://unsplash.com/@agk42)
